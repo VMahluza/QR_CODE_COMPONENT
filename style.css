@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+
+    margin: 0%;
+
+}
+body {
+    margin: 0%;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.attribution { 
+    
+    font-size: 11px; 
+    text-align: center; 
+    margin:  auto;
+
+    padding: 100px;
+    width: 1440px;
+
+
+}
+.attribution a { 
+    
+    color: #d5e1ef;
+
+
+}
+
+.attribution p { 
+    
+    
+    color: hsl(0, 0%, 100%); 
+
+
+}
+
+/* Desktop content */
+.desktop {
+
+    height: 800px;
+    width: 1440px;
+    background-color: #d5e1ef;
+    margin: 100px auto;
+    padding: 50px;
+
+    box-shadow: 20px 20px 70px rgb(191, 191, 191);
+
+}
+/* Mobile */
+.mobile {
+
+
+    height: 667px;
+    width: 375px;
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+
+}
+
+.mobile img{
+
+
+    width: 375px;
+    background-color: white;
+    margin: auto;
+    
+    border-radius: 30px;
+    
+}
+
+.mobile h1{
+
+
+    font-weight: 700px;
+    width: 375px;
+    color: hsl(218, 44%, 22%);
+    margin: 20px auto 20px auto;
+    border-radius: 30px;
+    
+}
+
+.mobile p{
+
+
+    font-weight: 700px;
+    width: 375px;
+    color: hsl(218, 44%, 22%);
+    margin: 20px auto 20px auto;
+    border-radius: 30px;
+    
+}
+
+footer {
+
+    background-color: #246ddc;
+    margin-top: 100px;
+    padding: 50px auto 50px auto;
+
+}
